@@ -26,8 +26,6 @@ $ dart interger.dart
 ## Executando o teste:
 
 ```bash
-# Clone esse repositório
-$ git clone https://github.com/LeandroSimo/teste_escribo.git
 
 # Entre no repositório
 $ cd teste_escribo
